@@ -1,1 +1,1 @@
-export * from './vacancies.route';
+export {default} from './vacancies.route';
